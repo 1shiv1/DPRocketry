@@ -2,7 +2,7 @@
 The github for the Dp rocketry club's rockets.
 
 ## The American Rocketry Challenge
-[Challenge Website](https://www.rocketrychallenge.org/) [Challenge Rules](https://www.rocketrychallenge.org/resource/2026-american-rocketry-challenge-rules/)
+[Challenge Website](https://www.rocketrychallenge.org/), [Challenge Rules](https://www.rocketrychallenge.org/resource/2026-american-rocketry-challenge-rules/)
 
 Our primary goals:
 1. Payload: Design a rocket that cradles one raw Grade A Large egg of 55 to 63 grams weight, carried in any orientation that must survive the flight uncracked. We need to design the egg protection mechanism. (currently considering some form of packing material)
