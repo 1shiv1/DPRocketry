@@ -10,7 +10,7 @@ If you are unsure of how to use Github, ask me.
 2. Altitude: Reach 750 feet (229 meters) We sh.ould try to aim slightly higher so we dont fall' short.
 3. Flight Time: The rocket must touch the ground 36 to 39 seconds from launch MAX.
 
-### Regulations to note:\
+### Regulations to note:
 Motor must be less than F class\
 Rocket cannot exceed 25.6" in length\
 Rocket cannot be >650 grams at liftoff\
