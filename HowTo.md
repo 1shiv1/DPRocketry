@@ -76,9 +76,9 @@ This will sync everything on your computer to github. You are now "Shipping" the
 And that is the workflow. Let me know if you have any questions.
 
 # Workflow
-```git pull``` (Get updates)
-... do your work in OpenRocket ...
-```git add <your-folder-path>``` (Pack the box)
-```git status``` (Double check the box)
-```git commit -m "Title" -m "Desc"``` (Label the box)
-```git push``` (Ship it)
+1. ```git pull``` (Get updates)
+2. ... do your work in OpenRocket ...
+3. ```git add <your-folder-path>``` (Pack the box)
+4. ```git status``` (Double check the box)
+5. ```git commit -m "Title" -m "Desc"``` (Label the box)
+6. ```git push``` (Ship it)
