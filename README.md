@@ -1,7 +1,7 @@
 # DPRocketry
 The GitHb for the Dp rocketry club's rockets.
 To contribute, ask me and I will create a branch for you. A branch is like your own version of the repo, and once you are done with it, you can create a pull request to merge it into the main repo. 
-Please refer to [the Github guide](HowTo.md) to learn how to use Github.
+Please refer to [HowTo.md](HowTo.md) to learn how to use Github.
 ## The American Rocketry Challenge
 [Challenge Website](https://www.rocketrychallenge.org/), [Challenge Rules](https://www.rocketrychallenge.org/resource/2026-american-rocketry-challenge-rules/)
 
