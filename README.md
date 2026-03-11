@@ -12,7 +12,7 @@ Please refer to [HowTo.md](HowTo.md) to learn how to use Github.
 
 ### Regulations to note:
 Motor must be less than F class\
-Rocket cannot exceed 25.6" in length\
+Rocket must be *at least* 25.6" in length\
 Rocket cannot be >650 grams at liftoff\
 Rocket body must maintain same width\
 All parts must descend together, through a parachute recovery (if any parts fall losely, we are disqualified)\
